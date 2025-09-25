@@ -59,3 +59,4 @@ else:
     print(f"Pas zbritjes: {format(pas_zbritjes, '.2f')} Lek")
     print(f"TVSH (15%): {format(tvsh, '.2f')} Lek")
     print(f"Totali: {format(total, '.2f')} Lek")
+
